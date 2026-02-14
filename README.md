@@ -13,7 +13,7 @@ The long term goal is to evolve MAFI into a comprehensive financial analysis eng
 The repository is structured into subfolders, each containing a dedicated sub algo responsible for a specific analytical domain. These include:
 
 *   **Market Scanning Modules**  
-    Detect price anomalies, liquidity shifts, sector rotations, and volatility patterns.
+    Detect price anomalies, liquidity shifts, sector rotations, and volatility patterns. Identify market inneficency, what the market demands and what can actually supply.
 
 *   **Macroeconomic Intelligence Modules**  
     Track inflation, interest rates, GDP indicators, employment data, and global economic cycles.
