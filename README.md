@@ -1,5 +1,6 @@
 # MAFI: Modular Algorithms for Financial Intelligence
 
+The worklfow: 1. quant(data) 2. macro(context) 3. decision 
 MAFI is a modular, extensible framework designed to generate high quality financial intelligence by combining multiple specialized analytical algorithms into a unified decision support system. The project aims to build a scalable architecture where each module performs a focused analytical task, while the core engine aggregates their outputs into actionable insights.
 
 ## Purpose & Vision
